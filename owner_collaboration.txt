@@ -1,0 +1,6 @@
+I am the owner.
+I am making a change.
+You need to pull from my github 
+repo to your local computer,
+in order to make additional 
+contributations.
