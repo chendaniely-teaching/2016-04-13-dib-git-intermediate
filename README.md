@@ -2,4 +2,11 @@
 
 This is an edit from github
 
-Today we will discuss: conflicts, braches, merging, pull requests, forks, etc...
+Today we will discuss:
+
+- conflicts
+- braches
+- merging
+- pull requests
+- forks
+- etc...
